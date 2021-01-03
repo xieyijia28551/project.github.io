@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>小米登录界面</title>
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/sign.css">
+    <script src="./js/cookie.min.js"></script>
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/sign.js"></script>
+</head>
+<body>
+    <header>
+        <div class="box cantainer">
+          <div class="boxa">
+            <a class="logo" href="#">
+                <img src="https://s02.mifile.cn/assets/static/image/logo-footer.png" alt="">
+                <div>
+                    <strong>小米商城</strong>
+                    <span>享受科技的乐趣</span>
+                </div>
+            </a>
+          </div>
+           <div class="signui">
+               <div class="top"><span>账号登录</span>|<span>扫码登录</span></div>
+              <form class="form" action="./sign/signin.php" method="GET">
+                  <input type="text" placeholder="邮箱/手机号/小米ID" name="user">
+                  <input type="text" placeholder="密码" name="password">
+                  <button type="submit">登录</button>
+                  <a class="register" href="#">手机短信登录注册</a>
+                  <p><a href="./regsiter.html">立即注册</a> | <a href="#">忘记密码?</a></p>
+              </form>
+              <div class="about"><a href="#">x</a><a href="#">x</a><a href="#">x</a><a href="#">x</a></div>
+           </div>
+        </div>
+        <div class="bg">
+
+        </div>
+    </header>
+    <footer>
+        <div class="foot">
+            <p>
+            <a href="#">简体</a>|
+            <a href="#">繁体</a>|
+            <a href="#">English</a>|
+            <a href="#">常见问题</a>|
+            <a href="#">隐私政策</a>
+            </p>
+            <p>小米公司版权所有-京ICP备10046444-京公网安备11010802020134号-京ICP证110507号</p>
+        </div>
+    </footer>
+    <script>
+        console.log(cookie.get('username') )
+    </script>
+</body>
+</html>

@@ -1,0 +1,107 @@
+header{
+    position: relative;
+}
+.cantainer{
+    width: 1130px;
+    margin: 0 auto;
+}
+.box{
+    height: 686px;
+    /* border: 1px solid red; */
+    position: relative;
+    z-index: 99999;
+}
+.boxa{
+    height: 98px;
+}
+.logo{
+    width: 240px;
+    height: 98px;
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    width: 56px;
+    height: 56px;
+}
+.logo div{
+    display: flex;
+    flex-direction: column;
+    /* align-items: flex-end; */
+    margin-left: 24px;
+    text-align: center;
+
+}
+.logo div strong{
+    font-size: 28px;
+    font-weight: 500;
+  
+  
+    
+}
+.logo div span{
+    font-size: 12px;
+}
+.signui{
+    width: 410px;
+    min-height: 556px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    /* border: 1px solid black; */
+    padding: 0 24px 0;
+    box-sizing: border-box;
+    text-align: center;
+    background: white;
+
+}
+.top{
+    padding: 27px 0 24px;
+    font-size: 24px;
+    text-align: center;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+.form input{
+    width: 346px;
+    height: 48px;
+    padding: 13px 16px 13px 14px;
+    box-sizing: border-box;
+    margin-bottom: 14px;
+}
+button[type="submit"]{
+    background-color: #ff6700;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 14px;
+    outline: none;
+    border: none;
+}
+.register{
+    color: #ff6700;
+    border: 0 none;
+    height: auto;
+    line-height: normal;
+    margin: 0;
+    margin-bottom: 30px;
+}
+.about{
+    margin-top: 150px;
+}
+.bg{
+    position: absolute;
+    top: 98px;
+    width: 100%;
+    height: 558px;
+    background: url("https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/72644d9b8031286de3cc74e151aefd90.jpg") no-repeat;
+    background-position: center top;
+}
+.foot{
+    height: 80px;
+    padding-top: 100px;
+}
+.foot p{
+    text-align: center;
+}
