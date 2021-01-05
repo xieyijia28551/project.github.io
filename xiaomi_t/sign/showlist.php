@@ -1,4 +1,4 @@
-<?php
+<?php 
       include "./base.php";
       $base=mysqli_connect('127.0.0.1','root','root','shop');
       $sql=mysqli_query($base,"SELECT * FROM `cart`");

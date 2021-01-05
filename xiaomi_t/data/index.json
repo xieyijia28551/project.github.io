@@ -1,0 +1,726 @@
+{
+    "household":[{
+        "shop_name":"Redmi 红米电视 70英寸 ",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ef4c68fed730ec26bf2fa0ff620975c5.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"70英寸震撼巨屏，4K画质，细腻如真",
+        "shop_price":3299,
+        "shop_iscoll":{
+            "iscolltext":"70英寸震撼巨屏 / 4K画质 细腻如真 / 杜比音效 身临其境 / PatchWall智能系统 内置小爱同学 / 海量好内容 / U盘文件直读 轻松办公 / 无线投屏 分享更方便",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1566998167.20454521.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1566998172.5414753.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1566998180.78522711.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1566998182.84019949.jpg"
+            }
+        }
+
+    },{
+        "shop_name":"小米全面屏电视E32C",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8b3fe3a07ef69fb4c959e39c768c7525.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"全面屏设计，人工智能系统",
+        "shop_price":899,
+        "shop_iscoll":{
+            "iscolltext":"全面屏设计 / 高清分辨率 / 海量内容 / 1G+4G大内存 / 多核处理器",
+           "src":{
+            "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1561540297.6364248.jpg",
+            "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1561540297.58022304.jpg",
+            "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1561540297.5791736.jpg",
+            "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1561540297.61439602.jpg"
+           }
+        }
+
+    },{
+        "shop_name":"小米全面屏电视E55A",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ef6b4e9b9151849b3b1fb1dbf069c6ed.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"全面屏设计，人工智能语音",
+        "shop_price":2299,
+        "shop_iscoll":{
+            "iscolltext":"全面屏设计 / 4K超高清+HDR / 纤薄机身 / 2GB+8GB大内存 / 64位四核处理器 / 内置小爱同学",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562138486.16379871.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562138486.20534288.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562138486.20199078.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562138486.13276223.jpg"
+            }
+        }
+
+    },{
+        "shop_name":"米家空调",
+        "shop_img":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2b911be4c2f156bb6e4cf367c6080045.jpg?thumb=1&w=200&h=200",
+        "shop_text":"出众静音，快速制冷热",
+        "shop_price":1499,
+        "shop_iscoll":{
+            "iscolltext":"「智能空调 新年狂欢！6日到手价1699元」快速冷暖 / 静音设计 / 强力除湿",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2b911be4c2f156bb6e4cf367c6080045.jpg"
+            }
+           
+        }
+
+    },{
+        "shop_name":"米家互联网洗烘一体机 Pro 10kg",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ec20453216dcd42f982cffe5fdbc3115.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"智能洗烘，省心省力",
+        "shop_price":2999,
+        "shop_iscoll":{
+            "iscolltext":"「新年焕新狂欢购！热卖单品到手价仅2999元！下单赠米家电水壶」国标双A+级洗烘能力 / 22种洗烘模式 / 除菌率达99.9%+ / 支持小爱同学语音遥控 / 支持OTA在线智能升级 / 智能空气洗 / 智能投放洗涤剂",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560161251.21862332.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560161250.95927056.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560161250.95428091.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560161250.9595050.jpg"
+            }
+        }
+
+    },{
+        "shop_name":"Redmi全自动波轮洗衣机1A 8kg",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b8c63a2024528fe5410ebe669b7d2407.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"一键操作，父母都爱用",
+        "shop_price":799,
+        "shop_iscoll":{
+            "iscolltext":"「新年焕新狂欢购！热卖爆品，限时抢购价仅799元！」8kg大容量 / 10种洗涤模式 / 10挡水位调节 / 耐腐蚀金属机身 / 桶自洁、桶风干模式避免细菌滋生 / 空气阻尼减震 / 免运费及基础安装费",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1552868299.23297041.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1552868299.23297041.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1552868299.30794969.jpg"
+            }
+        }
+
+    },{
+        "shop_name":"Air 13.3' 2019款 ",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/74e573c4c0d89048392d14831cc507d5.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"新一代独立显卡",
+        "shop_price":4799,
+        "shop_iscoll":{
+            "iscolltext":"轻薄全金属机身 / MX250独立显卡 / 9.5小时超长续航 / FHD全高清屏幕 / 指纹解锁 / 兼顾办公娱乐与轻薄的高性能笔记本",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553153599.45022663.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553153599.32349991.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553153599.24517373.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553153599.22087482.jpg"
+            }
+        }
+
+    },{
+        "shop_name":"小米全面屏电视E32C",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8b3fe3a07ef69fb4c959e39c768c7525.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"全面屏设计，人工智能系统",
+        "shop_price":899,
+        "shop_iscoll":{
+            "iscolltext":"全面屏设计 / 高清分辨率 / 海量内容 / 1G+4G大内存 / 多核处理器",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1561540297.6364248.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1561540297.58022304.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1561540297.5791736.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1561540297.61439602.jpg"
+            }
+        }
+
+    }],
+    "intelligence":[{
+        "shop_name":"小米「小爱老师」",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/011dd8493ad62f3793dbb63d9fbd3bc0.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"英语提分利器",
+        "shop_price":999,
+        "shop_iscoll":{
+            "iscolltext":"AI英语学习机 / 词汇教材同步 / 大内存 大容量 / 无痛背单词 / AI电子词典 / AI听说训练 / 拍照查词 翻译 / 内置小爱同学 / 翻译机 / AI录音笔 / 随身WIFI / 25天待机",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560222640.90428593.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560222585.27659170.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560222585.20282704.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560222585.19853729.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560222585.20014321.jpg"
+            }
+           
+        }
+    },{
+        "shop_name":"九号平衡车 Plus",
+        "shop_img":"https://i8.mifile.cn/v1/a1/877d3ce8-68ab-7506-2a78-55a8c0fba946!200x200.png",
+        "shop_text":"一个形影不离的新伙伴",
+        "shop_price":3299,
+        "shop_iscoll":{
+            "iscolltext":"增强型镁合金底盘 / 35km 超长续航 / 一键自动跟随",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1498643144.48446520.png",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1498623949.929117.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1498623953.19298215.jpg"
+            }
+        }
+    },{
+        "shop_name":"小米小爱音箱 Play",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e7c6e79433c883e1a022ec21402c1679.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"听音乐、语音遥控家电",
+        "shop_price":99,
+        "shop_iscoll":{
+            "iscolltext":"智能设备控制 / 人工智能语音对话 / 就近唤醒 / 趣味闹钟 / 孩子的超级故事王",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560230039.28979252.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560230039.18218237.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560230039.17151257.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560230039.18254759.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1561004740.36956982.jpg",
+                "src6":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1561004736.92332038.jpg"
+            }
+            
+        }
+    },{
+        "shop_name":"米家智能窗帘",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3accd497afc0047cfbd40f442e3b17df.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"窗帘开合随心控",
+        "shop_price":799,
+        "shop_iscoll":{
+            "iscolltext":"多种智能开合方式丨丰富智能联动丨直流静音电机",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1591344854.06953246.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1591344854.07626229.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592465297.98151623.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592465294.46137333.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592465298.03622287.jpg",
+                "src6":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592465294.46347493.jpg",
+                "src7":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592465297.85226116.jpg"
+            }
+        }
+    },{
+        "shop_name":"小米体脂秤2",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/550177d2e54387521bce9e78cb2949dd.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"轻松掌握身体脂肪率",
+        "shop_price":99,
+        "shop_iscoll":{
+            "iscolltext":"G字型传感器 / 高精准BIA芯片 / 13项身体数据 / 平衡能力测试",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1555659431.52713594.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1555659431.36891477.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1555659431.43177845.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1555659431.37544569.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1555659431.49512195.jpg"
+            }
+            
+        }
+    },{
+        "shop_name":"小米智能门锁 推拉式",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5a312d69c1a5447c9e3d14d42d01a8fb.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"一步推拉，高端智能门锁",
+        "shop_price":1599,
+        "shop_iscoll":{
+            "iscolltext":"适用于标准锁体和霸王锁体 / 直插式C级锁芯 / 6种开锁方式，支持小米手环4 NFC版开锁 / 7重安全状态检测 / 抵御小黑盒攻击 / 智能联动",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1596697684.17284620.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1596697684.36748607.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1596697684.1828031.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1596697684.2383019.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1596697684.18245745.jpg"
+            }
+           
+        }
+    },{
+        "shop_name":"Redmi小爱触屏音箱 8英寸",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/49f30069c778b494257320d9da5a1a60.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"超大屏，让智能更多可能",
+        "shop_price":349,
+        "shop_iscoll":{
+            "iscolltext":"8英寸高清大屏 / 热门视频平台 / 智能家居中控 / 儿童模式 / 第三代小爱同学",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584930592.91415090.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584930592.91415090.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584930592.87981629.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584930592.94843524.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584930592.84926992.jpg"
+            }
+        
+        }
+    },{
+        "shop_name":"骑记电动助力自行车 新国标版 黑色",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3520b7c57449585bc3185d31b9d9bd08.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"更多助力选择，更多城市风景",
+        "shop_price":2999,
+        "shop_iscoll":{
+            "iscolltext":"三种骑行模式 / 40km助力骑行 / 大尺寸光感显示屏",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1575252194.40414382.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1575252194.50826219.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1575252194.41555683.jpg"
+            }
+         
+        
+        }
+    }],
+    "collocation":[{
+        "shop_name":"小米真无线蓝牙耳机Air 2 Pro",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5fc35cf0af915a9e60f5d4ea220521ab.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"主动降噪/持久续航/无线充",
+        "shop_price":699,
+        "shop_iscoll":{
+            "iscolltext":"弹窗快连语音唤醒/通话降噪同步传输/主动降噪通透模式/持久续航无线充电",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1602558654.78438981.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1602558654.77443537.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1602558654.7678597.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1602558654.77081636.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1602558654.8066842.jpg"
+            }
+            
+        }
+    },{
+        "shop_name":"高速无线充套装",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9eb0178e3bfeb7d170edd641fb4be4bc.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"快速无线闪充，Qi充电标准",
+        "shop_price":149,
+        "shop_iscoll":{
+            "iscolltext":"快速无线闪充 / 独立静音风扇 / Qi充电标准 / 安全充电",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1550480620.30111865.jpg"
+            }
+           
+        }
+    },{
+        "shop_name":"Redmi AirDots 2真无线蓝牙耳机",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7d9e8308f5f55bfa69c5c7fadc7cb4aa.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"支持蓝牙5.0，自动秒连，拿起就能用",
+        "shop_price":99,
+        "shop_iscoll":{
+            "iscolltext":"疾速秒连，戴上耳机就能用 / 蓝牙5.0技术 / 12小时长续航 / 单双耳模式无缝切换",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1594807763.78483029.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1594807763.78315615.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1594807763.77778793.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1594807763.79089304.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1594807763.78314885.jpg"
+            }
+            
+        }
+    },{
+        "shop_name":"小米真无线蓝牙耳机Air 2s",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c6306bf6d8aede9f6f48d8e4d9256db2.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"全面升级，智慧真无线",
+        "shop_price":399,
+        "shop_iscoll":{
+            "iscolltext":"左右双主耳，同步传输，性能全面提升 / 智能语音唤醒 / 搭配充电盒使用，续航可达24小时 / 支持Qi标准无线充电",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585639521.33045699.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585639521.37998821.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585639521.32771132.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585639521.354214.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585639521.32951960.jpg"
+            }
+            
+        }
+    },{
+        "shop_name":"Redmi充电宝 10000mAh 标准版 白色",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ea8e42faebf7d76a4cb42b8930cf9e46.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"10000mAh大电量 ",
+        "shop_price":59,
+        "shop_iscoll":{
+            "iscolltext":"10000mAh大电量 / 可上飞机 / 双输入接口(USB-C&Micro-USB) / 双输出接口(2xUSB-A) / 高密度锂聚合物电芯",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563334968.4986834.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563334968.53655339.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563334968.50988736.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563334968.53647860.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563334968.57564314.jpg"
+            }
+            
+        }
+    },{
+        "shop_name":"Redmi充电宝 20000mAh 快充版",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/eaf70e0e9905de6452f07b1f48fcc386.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"大容量,可上飞机 ",
+        "shop_price":99,
+        "shop_iscoll":{
+            "iscolltext":"20000mAh大电量 / 可上飞机 / 双输入接口(USB-C&Micro-USB) / 双输出接口(2xUSB-A) / 双向18W快充",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563355921.93119865.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563355921.71011450.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563355921.76749273.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563355921.68445753.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1563355921.66362413.jpg"
+            }
+        }
+    },{
+        "shop_name":"小米插线板 5孔位",
+        "shop_img":"https://i8.mifile.cn/v1/a1/5dd69c0a-8f4a-b42f-d840-6c5a47f2cd03!200x200.jpg",
+        "shop_text":"多重安全保护",
+        "shop_price":39,
+        "shop_iscoll":{
+            "iscolltext":"过载断电保护 / 独立安全门 / 高温阻燃",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1524207827.68245447.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1524207827.58764119.jpg"
+            }
+        }
+    },{
+        "shop_name":"小米降噪项圈蓝牙耳机",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/faf8668acb2fd80c0afad4d4c4e837ad.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"无线降噪，静无止境",
+        "shop_price":399,
+        "shop_iscoll":{
+            "iscolltext":"Hybrid 混合数字降噪，强力消噪 / 支持Sony LDAC，高清音质 / 最长20小时长续航，持久聆听 / 动圈+动铁双单元，三频均衡",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565264857.64986727.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565264857.65256700.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565264857.64934835.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565264857.65179686.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565264857.65369202.jpg"
+            }
+        
+        }
+    }],
+    "parts":[{
+        "shop_name":"小米氮化镓GaN充电器 Type-C 65W ",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f8fde8a877fd4b12ad88119d9b6bc061.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"氮化镓黑科技 65W MAX 大功率快充",
+        "shop_price":149,
+        "shop_iscoll":{
+            "iscolltext":"氮化镓第三代半导体材料 / 效率更高，体积更小，重量更轻 / 45分钟为小米10 Pro充电100% / 内含5A大电流，1米长数据线，充电更快 / 兼容大多数Type-C型手机，笔记本电脑，平板电脑",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581404403.66637919.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581404403.66179565.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581404403.831615.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581404403.80487107.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581404403.94228731.jpg"
+            }
+        
+        }
+    },{
+        "shop_name":"高速无线充套装",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9eb0178e3bfeb7d170edd641fb4be4bc.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"快速无线闪充，Qi充电标准",
+        "shop_price":149,
+        "shop_iscoll":{
+            "iscolltext":"快速无线闪充 / 独立静音风扇 / Qi充电标准 / 安全充电",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1550480620.30111865.jpg"
+            }
+           
+        }
+    },{
+        "shop_name":"小米无线充电宝青春版10000mAh",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1f32af53d1ad60f4980146f6a2b81019.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"能量满满，无线有线都能充",
+        "shop_price":129,
+        "shop_iscoll":{
+            "iscolltext":"10000mAh大容量 / 支持边充边放 / 有线无线都能充 / 双向快充",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1568083247.368995.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1568083247.36373213.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1568083247.52129976.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1568083247.49576319.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1568083466.35074241.jpg"
+            }
+          
+        }
+    },{
+        "shop_name":"米家LED随身灯",
+        "shop_img":"https://i8.mifile.cn/v1/a1/b0ded71f-b235-8f99-ba1c-20f80c3a4231!200x200.jpg",
+        "shop_text":"小巧轻便 5级亮度调节",
+        "shop_price":19.9,
+        "shop_iscoll":{
+            "iscolltext":"5级亮度调节 / 亮度提升50% / 小巧轻便 / 可弯曲，适合多种使用场景",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1468288699.25755117.jpg"
+            }
+            
+        }
+    },{
+        "shop_name":"小米车载充电器快充版",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/01dba858b327eeeadf34ce8a1d794ed4.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"双口快充，安全稳定",
+        "shop_price":69,
+        "shop_iscoll":{
+            "iscolltext":"QC3.0双口输出/智能温度控制/兼容iOS&Android",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1591600822.31543126.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1591600822.31198688.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1591600822.31538279.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1591600822.32585588.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1591600822.30677977.jpg",
+                "src6":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1591600822.31356211.jpg"
+            }
+        }
+    },{
+        "shop_name":"小米USB充电器65W 快充版（2A1C）",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e4b3bff030170ad1a07dfb50311352c9.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"超级快充，三台设备同时充",
+        "shop_price":149,
+        "shop_iscoll":{
+            "iscolltext":"笔记本电脑、手机、平板、游戏设备同时充，支持三口同时输出，包含一个USB-C接口和2个USB-A接口，小米 9 Pro 40W闪充，USB-C 65W MAX输出。",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1580544093.08799016.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1580544093.12236252.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1580544093.12391745.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1580544093.14871187.jpg"
+            }
+           
+        }
+    },{
+        "shop_name":"小米Type-C转Lightning数据线 1m",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/573e9cb39b0d8c7f2cd063621142fe44.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"苹果MFi官方认证，支持快充",
+        "shop_price":59,
+        "shop_iscoll":{
+            "iscolltext":"苹果MFi官方认证 / 支持快充 / 坚固耐用 / 久用不断裂 / 可搭配小米Type-C充电器快充版18W使用",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585725403.51271960.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585725403.44114811.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585725403.43823454.jpg"
+            }
+        }
+    },{
+        "shop_name":"米家插线板6位基础版（含3口USB 2A快充）",
+        "shop_img":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/554198af-55ec-8400-7a04-66a8f3e0dd66.jpg?thumb=1&w=200&h=200",
+        "shop_text":"小巧设计，便捷不占地儿",
+        "shop_price":79,
+        "shop_iscoll":{
+            "iscolltext":"新国标1mm²线材更安全 / 3个USB充电口 / 多重保护",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1524207523.33239844.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1524207523.33035554.jpg"
+            }
+            
+        
+        }
+    }],
+    "periphery":[{
+        "shop_name":"米家飞行员太阳镜 Pro",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cccac948e1b8ffb47f1fecde67692e60.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"尼龙偏光，轻巧佩戴",
+        "shop_price":199,
+        "shop_iscoll":{
+            "iscolltext":"阻隔紫外线防眩光 / 1mm 超细镜腿 / 不锈钢超薄镜架 / 免螺丝一体结构",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1556533073.62795224.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1556533073.54976539.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1556533073.55238414.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1556533073.28089514.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1556533073.55023638.jpg"
+            }
+            
+        }
+    },{
+        "shop_name":"小米巨能写中性笔10支装",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/57433a4b991b2a2ddc889f2d8d434655.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"一支顶4支，超长顺滑书写",
+        "shop_price":9.9,
+        "shop_iscoll":{
+            "iscolltext":"4倍书写长度 / 日本MIKUNI油墨 / 0.5mm弹簧子弹头 / 不易飞白断墨",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1559616366.16874615.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1559616366.13749391.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1559616366.42816733.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1559616366.16821643.jpg"
+            }
+        }
+    },{
+        "shop_name":"米家迷你保温杯",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/03d94ee6059481a6adcb6c4c5c572fb4.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"可以随身携带的温度",
+        "shop_price":49,
+        "shop_iscoll":{
+            "iscolltext":"小巧便携 / 保温锁冷 / 轻量杯身 / 多彩四色 / 350ml容量",
+           "src":{
+            "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565313911.01343154.jpg",
+            "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565313911.07586919.jpg",
+            "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565313911.02233861.jpg",
+            "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565313911.11876511.jpg",
+            "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1565313911.11942341.jpg"
+           }
+           
+        }
+    },{
+        "shop_name":"贝医生巴氏牙刷 四色装",
+        "shop_img":"https://i8.mifile.cn/v1/a1/413f5e2f-53e7-0879-119c-8b4466feea53!200x200.jpg",
+        "shop_text":"进口刷毛，好品质",
+        "shop_price":39.9,
+        "shop_iscoll":{
+            "iscolltext":"赠精美旅行盒 / 德日进口刷毛 / 专利科学布局 / 全身食品级材质",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1502258923.87257653.jpg"
+            }
+   
+        }
+    },{
+        "shop_name":"米家运动鞋4",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d0b1119165c481376399aab53330e015.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"轻盈若絮,弹若脱兔",
+        "shop_price":199,
+        "shop_iscoll":{
+            "iscolltext":"Uni-moulding一体成型鞋底科技/ETPU中底/一片式立体高弹飞织鞋面/鱼骨锁紧系统全新升级",
+           "src":{
+            "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585819874.10656628.jpg",
+            "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585819874.10432065.jpg",
+            "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585819874.16653248.jpg",
+            "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585819874.10669116.jpg",
+            "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585819874.1091790.jpg"
+           }
+            
+        }
+    },{
+        "shop_name":"米家指甲刀五件套",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/18ebd0837a5f265deaee9231aa3e1245.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"轻巧多用，优雅随行",
+        "shop_price":39.9,
+        "shop_iscoll":{
+            "iscolltext":"高品质不锈钢 / 磁吸收纳 / 简洁五件套 / 随身携带",
+            "src":{ 
+            "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584611105.259881.jpg",
+            "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584611098.82322040.jpg",
+            "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584611105.43437213.jpg",
+            "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584611097.19055526.jpg",
+            "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584611103.97824956.jpg"}
+            
+        }
+    },{
+        "shop_name":"8H乳胶床垫2",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f9017bebb14740ea46673aaa81a616cb.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"软硬双面可睡",
+        "shop_price":599,
+        "shop_iscoll":{
+            "iscolltext":"防螨Schcott 乳胶/创新桉树面料/全面抗菌防螨/透气呼吸窗/双面可用",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585735675.4495923.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585735675.44875567.jpg"
+            }
+        }
+    },{
+        "shop_name":"九号卡丁车Pro兰博基尼汽车定制版",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/609d0a457c7f8ac27d76f953c8acb7fc.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"九号卡丁车Pro兰博基尼汽车定制版",
+        "shop_price":9999,
+        "shop_iscoll":{
+            "iscolltext":"与兰博基尼合作设计/全新风冷式轮毂电机/40km/h 极速/可变身为平衡车/大容量风冷电池组/引擎声浪模拟系统",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1596609066.25445436.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1596609066.14169150.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1596609066.13836328.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1596609066.15223822.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1596609066.1477389.jpg"
+            }
+        
+        }
+    }],
+    "phone":[{
+        "shop_name":"小米11",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5a260090e0e08770b0bd865845a4b4ab.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"骁龙888 | 2K四曲面屏",
+        "shop_price":3999,
+        "shop_iscoll":{
+            "iscolltext":"「新品热卖中！最高享12期免息；购机返双倍米金；标配不提供充电器和数据线，如需请选择套装版」骁龙888｜2K AMOLED 四曲面柔性屏｜1亿像素三摄｜时尚轻薄机身｜55W 有线闪充｜50W 无线闪充｜10W 无线反充｜LPDDR5｜WiFi6（增强版）｜视频「超级夜景」｜哈曼卡顿音频认证｜立体声双扬声器",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1609158754.96998301.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1609158757.32312955.jpg"
+
+            }
+        }
+
+    },{
+        "shop_name":"Note 9 Pro",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4e75e528fb468aee107f551179aa0799.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"一亿像素夜景相机，120Hz六档变速高刷屏",
+        "shop_price":1599,
+        "shop_iscoll":{
+            "iscolltext":"「购机享多看阅读免费VIP季卡；1.1-1.12购机得2倍米金；+1元得200G云空间月卡」一亿像素夜景相机 / 120Hz六档变速高刷屏 / 国内首发骁龙750G / 6.67'小孔径全面屏 / 立体声双扬声器 / 4820mAh+33W闪充 / 多功能NFC / 线性马达 / 红外遥控 / 全新MIUI 12系统",
+           "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1606288561.52572408.jpg"
+           }
+            
+
+        }
+
+    },{
+        "shop_name":"Note 9",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/de2f71a797a74e1ca70f1fb4570bc026.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"天玑 800U处理器，5000mAh电池，",
+        "shop_price":1299,
+        "shop_iscoll":{
+            "iscolltext":"「购机享多看阅读免费VIP季卡；1.1-1.12购机得2倍米金；+1元得200G云空间月卡」天玑 800U处理器 / 4800万像素主摄 / 6.53英寸超高清小孔全面屏 / 小金刚品质 / 5000mAh+18W快充 / 双5G待机 / 侧边指纹识别 / 线性马达 / 红外遥控",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1606288963.72951431.jpg"
+            }
+           
+
+        }
+
+    },{
+        "shop_name":"Note 9 4G",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/13f10e47913f9dc82e6c6a6199f413cd.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"6000mAh长续航",
+        "shop_price":999,
+        "shop_iscoll":{
+            "iscolltext":"「新品火爆热卖中！购机享多看阅读免费VIP季卡；1.1-1.12购机得2倍米金」6000mAh超长续航 / 4800万超清三摄 / 全高清6.53英寸护眼屏 / 骁龙662处理器 / 18W快速充电 / 立体声双扬声器 / 侧边指纹识别 / 90%高屏占比 / 康宁大猩猩保护玻璃",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1606289221.80685857.jpg"
+            }
+            
+
+        }
+
+    },{
+        "shop_name":"小米10 至尊版",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d880ff45a9a3b70527770e01521fc939.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"120X 变焦/120W秒充/120Hz屏幕",
+        "shop_price":5299,
+        "shop_iscoll":{
+            "iscolltext":"「十年献礼，巅峰美学；最高享12期免息」120X 超远变焦 / 120W 秒充科技 / 120Hz刷新率 + 240Hz采样率 / 骁龙865旗舰处理器 / 双模5G / 10倍混合光学变焦 / OIS光学防抖+EIS数字防抖 / 2000万超清前置相机 / 双串蝶式石墨烯基锂离子电池 / 等效4500mAh大电量 / 120W 有线秒充+50W无线秒充+10W无线反充 / WiFi 6 / 多功能NFC / 红外遥控",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597145789.9525714.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597145851.48099727.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597145789.84932454.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597145789.91588614.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597145789.88683515.jpg"
+            }
+
+        }
+
+    },{
+        "shop_name":"Redmi K30S 至尊纪念版",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7cf7a05df86a858a1f391a0378d8c27d.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"144Hz[7档]变速高刷屏",
+        "shop_price":2599,
+        "shop_iscoll":{
+            "iscolltext":"骁龙865 / 144Hz[7档]变速高刷屏 / 专业原色显示+全局护眼 / 5000mAh大电量+33W快充 / 6400万AI三摄 / 立体声双扬声器+X轴马达 / LPDDR5+UFS3.1+WiFi6",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1603708777.40827786.jpg"
+            }
+            
+
+        }
+
+    },{
+        "shop_name":"Redmi K30 至尊版",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3b19bf0e7e599c1bbbce510fb0dbc8bc.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"120Hz弹出全面屏，天玑1000+旗舰处理器",
+        "shop_price":1999,
+        "shop_iscoll":{
+            "iscolltext":"「1月5日上午10点开售！享延保、碎屏保8折优惠；+1元得200G云空间月卡」120Hz弹出全面屏 / 天玑1000+旗舰处理器 / 索尼6400万四摄 / 立体声双扬声器 / 4500mAh+33W闪充 / 双模5G / 多功能NFC / 线性震动马达 / 红外遥控",
+           "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138299.63458975.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138299.64947838.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138299.62262557.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138299.65018218.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138299.6286387.jpg"
+           }
+           
+
+        }
+
+    },{
+        "shop_name":"腾讯黑鲨3S ",
+        "shop_img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/237942bfcaf2bbe82fbe966c2f584d69.jpg?thumb=1&w=200&h=200&f=webp&q=90",
+        "shop_text":"骁龙865处理器，120Hz刷新率",
+        "shop_price":"3999",
+        "shop_iscoll":{
+            "iscolltext":"骁龙865处理器 / 双模5G / 270Hz触控采样率+120Hz屏幕刷新率 / 三星AMOLED全面屏 / 最高65W极速闪充+背部磁吸充电 / 4720mAh大容量双电池 / UFS3.1闪存+LPDDR5运存 / “三明治”液冷散热 / JoyUI 12 游戏操作系统 / 畅玩投屏",
+            "src":{
+                "src1":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595486329.61241316.jpg",
+                "src2":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595486329.60561363.jpg",
+                "src3":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595486329.60473438.jpg",
+                "src4":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595486329.60258995.jpg",
+                "src5":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595486329.61572041.jpg"
+            }
+
+        }
+
+    }
+]
+    
+    
+}

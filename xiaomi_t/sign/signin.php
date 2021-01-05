@@ -1,9 +1,8 @@
 <?php
-    include "./base.php";
+    header('content-type:text/html;charset=utf8');
     $user=$_GET['user'];
     $psw=$_GET['password'];
-
-    // 1 连接数据库
+    // 1 连接数据库 
     $conn=mysqli_connect('127.0.0.1','root','root','shop');
 
     // 2 执行sql语句

@@ -38,9 +38,9 @@ if($result1){
 $sql2="CREATE TABLE `cart` (
     `product_id` varchar(300) NOT NULL,
     `product_name` varchar(300) NOT NULL,
-    `product_img` varchar(30) NOT NULL,
+    `product_img` varchar(255) NOT NULL,
     `product_price` varchar(30) NOT NULL,
-    `product_num` varchar(30) NOT NULL,
+    `product_num` varchar(30) NOT NULL DEFAULT '1',
     `submission_data` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
     PRIMARY KEY (`product_id`)
   )";

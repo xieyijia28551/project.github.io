@@ -9,7 +9,7 @@
 
     // 1 连接数据库查询信息，根据数据库返回的信息执行相关的一系列操作
     $conn = mysqli_connect('127.0.0.1','root','root','shop');
-    echo "数据库连接成功";
+    // echo "数据库连接成功";
 
     // 2 执行sql语句
     $sql=mysqli_query($conn,"SELECT * FROM `user` WHERE `username`='$user'");
@@ -32,7 +32,7 @@
 
     // 4 断开连接
     mysqli_close($conn);
-    echo "数据库断开连接";
+    // echo "数据库断开连接";
 
     
     // echo "用户名是：".$user."密码是：".$psw;

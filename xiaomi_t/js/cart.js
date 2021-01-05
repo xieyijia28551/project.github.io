@@ -3,26 +3,32 @@ $(function(){
     if(value!==false){
         $('.right').empty().html(
             `
-            <img src="https://s02.mifile.cn/assets/static/image/logo-footer.png" alt="">
-            <span>${value}的购物车</span>
+            <a href="./index.html"><img src="https://s02.mifile.cn/assets/static/image/logo-footer.png" alt=""></a>
+            <span>我的购物车</span>
+            `
+        )
+        $('.left').empty().html(
+            `
+            <a href="#">${value}</a>|
+            <a href="#">我的订单</a>
             `
         )
     }else if(value ==false){
         // console.log("1111")
-        $('.right').empty().html(
-            `
-            <img src="https://s02.mifile.cn/assets/static/image/logo-footer.png" alt="">
-            <span>我的的购物车</span>
-            `
-        )
+        alert("请您先进行用户登录")
+        setTimeout(function(){
+            location.href="./index.html";
+        },3000)
+       
     }
     showData();
     async function showData(){
         let data=await $.ajax({
-            url:'http://localhost/xiaomi_t/sign/showlist.php',
+            url:'./sign/showlist.php',
             dataType:'json'
         })
         let allprice=0;
+        // console.log(data.data.length)
         if(data.code==1){
             $('.shopcart table tbody').empty()
             $.each(data.data,function(index,item){
@@ -33,7 +39,7 @@ $(function(){
                 <td>${item.product_id}</td>
                 <td><img src="${item.product_img}" alt="">${item.product_name}</td>
                 <td><i>${item.product_price}</i>元</td>
-                <td><div><a class="les">-</a><input type="text" value="${item.product_num}"><a class="add">+</a></div></td>
+                <td><div><a class="les">-</a><input type="text"  value="${item.product_num}"><a class="add">+</a></div></td>
                 <td><i class="small">${item.product_price}</i>元</td>
                 <td class="deletemsg"><a>x</a></td>
             </tr>
@@ -48,7 +54,22 @@ $(function(){
                }
             })
            
+        }else{
+            $('.shopcart').empty().html(
+                `
+                <div class="shopcartbox">
+                <img src="https://cdn.cnbj1.fds.api.mi-img.com/staticsfile/cart/cart-empty.png" alt="">
+                <div>
+                    <h3>你的购物车还是空的!</h3>
+                    <button>马上去购物</button>
+                </div>
+            </div>
+                `
+            )
         }
+        $('.shopcartbox div:nth-child(2) button:nth-child(2)').click(function(){
+            location.href="./index.html"
+        })
         $('.deletemsg').click(function(){
              let shopid=$(this).siblings().eq(1).text();
             if(confirm("你确定将此商品移除购物车？")){
@@ -130,6 +151,15 @@ $(function(){
            
             `
         )   
+        $('.allprice div:nth-child(2)>button').click(function(){
+            // console.log("1111")
+            $('.canve').css({
+                display:'block',
+            })
+            $('.apply').css({
+                display:'block',
+            })
+        })
     };
    /*  $('.les').click(function(){
         console.log('1111')
@@ -211,5 +241,16 @@ $(function(){
        return shopNum
  
      }
+   
+     $('.apply .top button').click(function(){
+         console.log( $(this).parent().parent())
+         $(this).parent().parent().css({
+             display:'none',
+         })
+         $('.canve').css({
+            display:'none',
+        })
+       
+     })
     
 })
