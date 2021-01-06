@@ -1,74 +1,4 @@
 /* 布局开始 */
-/* ===========头部================== */
-header {
-  height: 140px;
-}
-.header_t {
-  height: 40px;
-  background: #333;
-}
-.head_t {
-  height: 40px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.head_t > ul {
-  display: flex;
-}
-.head_t > ul > li > a {
-  color: #b0b0b0;
-  display: flex;
-  font-size: 12px;
-}
-.head_t > ul > span {
-  margin: 0 0.3em;
-}
-.head_t > div > a {
-  color: #b0b0b0;
-}
-.head_u {
-  display: flex;
-  height: 100px;
-  justify-content: space-between;
-  align-items: center;
-}
-.h_left {
-  display: flex;
-  align-items: center;
-}
-.h_left > a {
-  display: flex;
-  width: 55px;
-  height: 55px;
-  justify-content: center;
-  align-items: center;
-}
-.h_left .space {
-  width: 150px;
-  height: 100px;
-}
-.h_left ul > li > a:hover {
-  color: #ff6700;
-}
-.h_left > ul {
-  display: flex;
-}
-.h_left > ul li {
-  font-size: 16px;
-}
-.h_left > ul li a {
-  display: flex;
-  padding: 26px 10px 38px;
-}
-.h_right form input:nth-child(1) {
-  text-indent: 10px;
-}
-/* .h_right form input:nth-child(2){
-    width: 50px;
-    height: 50px;
-
-} */
 /* ===========中心内容=============== */
 .Shop {
   padding-top: 20px;
@@ -278,54 +208,10 @@ header {
 }
 .Shop {
   background: #f5f5f5;
+  min-width: 1226px;
 }
 /* ============尾部==================*/
-.footer ul {
-  display: flex;
-  justify-content: space-between;
-}
-.footer ul li {
-  width: 25%;
-  text-align: center;
-  font-size: 16px;
-  background-color: rgba(0, 0, 0, 0);
-}
-.footer ul li i {
-  font-size: 18px;
-}
-.footer ul li:hover {
-  color: #ff6700;
-}
-.footer .ulbox {
-  padding: 27px 0;
-}
-.footer .dlbox {
-  display: flex;
-  /* justify-content: space-between; */
-}
-.footer .dlbox > div dl {
-  width: 162px;
-}
-.footer .dlbox > div dl dt {
-  margin: -1px 0 26px;
-  font-size: 14px;
-  color: #424242;
-}
-.footer .dlbox > div dl dd {
-  margin-top: 10px;
-  font-size: 12px;
-}
-.footer .dlbox > div dl dd:hover {
-  color: #ff6700;
-}
-.info {
-  padding: 30px 0;
-}
-.ilayout {
-  position: relative;
-  padding-left: 67px;
-  /* box-sizing: border-box; */
-}
+
 .sign {
   position: absolute;
   top: 0;

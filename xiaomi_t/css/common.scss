@@ -2,6 +2,107 @@
   width: 1226px;
   margin: 0 auto;
 }
+// 头部公共css
+header {
+  height: 140px;
+}
+.head_u {
+  display: flex;
+  height: 100px;
+  justify-content: space-between;
+  align-items: center;
+}
+.h_left {
+  display: flex;
+  align-items: center;
+  > a {
+    display: flex;
+    width: 55px;
+    height: 55px;
+    justify-content: center;
+    align-items: center;
+  }
+  .space {
+    width: 150px;
+    height: 100px;
+  }
+  > ul {
+    display: flex;
+    li {
+      font-size: 16px;
+      a {
+        display: flex;
+        padding: 26px 10px 38px;
+        &:hover {
+          color: #ff6700;
+        }
+      }
+    }
+  }
+}
+.head_t {
+  height: 40px;
+  background: #333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  > div {
+    > a {
+      color: #b0b0b0;
+    }
+  }
+  ul {
+    display: flex;
+    span {
+      color: #424242;
+      margin: 0 0.3em;
+    }
+    li {
+      a {
+        color: #b0b0b0;
+        display: flex;
+        font-size: 12px;
+        &:hover {
+          color: #ffffff;
+        }
+      }
+    }
+  }
+}
+.h_right {
+  form {
+    input:nth-child(1) {
+      text-indent: 10px;
+    }
+  }
+}
+.taggle{
+  display: flex;
+  span{
+    line-height: 40px;
+    margin: 0 0.3em;
+    color:#424242;
+  }
+  a{
+    line-height: 40px;
+    &:hover{
+      color: #ffffff;
+    }
+  }
+  a:nth-child(7){
+    display: block;
+    width: 120px;
+    height: 40px;
+    background: #424242;
+    line-height: 40px;
+    text-align: center;
+    &:hover{
+      background: #fff;
+      color:#ff6700;
+    }
+  }
+}
+// 尾部公共css
 .footer {
   ul {
     display: flex;
@@ -58,20 +159,178 @@
   }
 }
 .info {
-    padding: 30px 0;
+  padding: 30px 0;
+  div:nth-child(2) {
+    font-size: 16px;
+    color: #b0b0b0;
   }
-  .ilayout {
-    position: relative;
-    padding-left: 67px;
-    /* box-sizing: border-box; */
-  }
-  .sign {
+}
+.ilayout {
+  position: relative;
+  padding-left: 67px;
+  /* box-sizing: border-box; */
+}
+.sign {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ir {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.yaxis {
+  position: relative;
+}
+.yaxis {
+  &::after {
+    content: "";
     position: absolute;
-    top: 0;
-    left: 0;
+    display: block;
+    height: 18px;
+    width: 2px;
+    background: #e0e0e0;
+    right: 0;
+    top: 2px;
   }
-  .ir {
-    margin-top: 30px;
+}
+.ulbox {
+  border-bottom: 1px solid #cccccc;
+}
+.dlbox {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+.cantact {
+  position: relative;
+}
+.cantact::after {
+  content: "";
+  position: absolute;
+  width: 1px;
+  height: 60%;
+  background: #e0e0e0;
+  top: 0;
+  left: 0;
+}
+.cantact {
+  width: 100%;
+  text-align: center;
+  > a {
+    display: inline-block;
+    width: 118px;
+    height: 28px;
+    border: 1px solid #ff6700;
+    color: #ff6700;
     text-align: center;
+    line-height: 28px;
+    &:hover {
+      background: #ff6700;
+      color: #ffffff;
+    }
   }
-  
+  > p:nth-child(1) {
+    font-size: 22px;
+    line-height: 1;
+    color: #ff6700;
+  }
+  > p:nth-child(2) {
+    margin: 5px 0 5px 0;
+    font-size: 12px;
+    color: #616161;
+  }
+  > div:nth-child(4) {
+    font-size: 12px;
+    margin-top: 10px;
+    color: #616161;
+    i {
+      font-size: 16px;
+      &:hover {
+        color: #ff6700;
+      }
+    }
+  }
+}
+.ilayout {
+  p:nth-child(2),
+  p:nth-child(3) {
+    a {
+      &:hover {
+        color: #ff6700;
+      }
+    }
+  }
+  p:nth-child(4) {
+    line-height: 18px;
+    color: #b0b0b0;
+  }
+}
+.Info {
+  background: #fafafa;
+}
+.dlbox {
+  div {
+    dl {
+      dd {
+        font-size: 12px;
+        color: #757575;
+      }
+    }
+  }
+}
+.footer {
+  ul {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+.footer {
+  ul {
+    li {
+      width: 25%;
+      text-align: center;
+      font-size: 16px;
+      background-color: rgba(0, 0, 0, 0);
+      &:hover {
+        color: #ff6700;
+      }
+      i {
+        font-size: 18px;
+      }
+    }
+  }
+  .ulbox {
+    padding: 27px 0;
+  }
+  .dlbox {
+    display: flex;
+    /* justify-content: space-between; */
+    > div {
+      dl {
+        width: 162px;
+        dt {
+          margin: -1px 0 26px;
+          font-size: 14px;
+          color: #424242;
+        }
+        dd {
+          margin-top: 10px;
+          font-size: 12px;
+          &:hover {
+            color: #ff6700;
+          }
+        }
+      }
+    }
+  }
+}
+
+.info {
+  padding: 30px 0;
+}
+.ilayout {
+  position: relative;
+  padding-left: 67px;
+  /* box-sizing: border-box; */
+}

@@ -65,34 +65,31 @@ $(function(){
         }) .mouseleave(function(){
              $(".ul_li").remove()
         })
-        // $('.asider li').mouseenter(function(){
-        //     $(` <ul class="ul_li"></ul>`).css({
-        //         'width':991,
-        //         'background': 'skyblue',
-        //     }).appendTo($(this))
-        // })
     //读取cookie,根据cookie状态判断是否进行登录状态展示
+    // class="signout"
     let valname=cookie.get('username') ;
     if(valname!=false){
         $('.taggle').empty().html(
-            `<span style="color:#ffffff">欢迎您，${valname}用户！</span>
-            <button class="signout">退出</button>
-            <a href="#">消息通知</a>
-            <a href="./cart.html"><i class="iconfont icon-gouwuchekong"></i>购物车</a>
+            `
+            <a >欢迎您，${valname}用户！</a><span>|</span>
+            <a class="signout">退出</a><span>|</span>
+            <a href="#">消息通知</a><span>|</span>
+            <a href="./cart.html">
+             <i class="iconfont icon-gouwuchekong"></i>购物车(0)
+            </a>
             `
         )
     }
     $('.signout').click(function(){
-       /*  var time = new Date();
-        time.setTime(time.getTime()-8*60*60*1000*2);
-        document.cookie = `name; expires=${time}; path="/";`; */
-    //    removeCookie('name');
         cookie.remove('username')
         $('.taggle').empty().html(
-            `   <a href="./sign.html">登录</a>
-            <a href="#">注册</a>
-            <a href="#">消息通知</a>
-            <a href="./cart.html"><i class="iconfont icon-gouwuchekong"></i>购物车</a>
+            `
+            <a href="./sign.html">登录</a><span>|</span>
+            <a href="#">注册</a><span>|</span>
+            <a href="#">消息通知</a><span>|</span>
+            <a href="./cart.html">
+             <i class="iconfont icon-gouwuchekong"></i>购物车(0)
+            </a>
             `
         )
     })

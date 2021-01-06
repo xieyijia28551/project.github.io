@@ -91,6 +91,7 @@ button[type="submit"] {
   position: absolute;
   top: 98px;
   width: 100%;
+  min-width: 1226px;
   height: 558px;
   background: url("https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/72644d9b8031286de3cc74e151aefd90.jpg")
     no-repeat;
