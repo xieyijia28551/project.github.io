@@ -85,7 +85,7 @@ $(function(){
         $('.taggle').empty().html(
             `
             <a href="./sign.html">登录</a><span>|</span>
-            <a href="#">注册</a><span>|</span>
+            <a href="./regsiter.html">注册</a><span>|</span>
             <a href="#">消息通知</a><span>|</span>
             <a href="./cart.html">
              <i class="iconfont icon-gouwuchekong"></i>购物车(0)
